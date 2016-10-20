@@ -1,0 +1,14 @@
+// 將您的設定放入此檔案中以覆寫預設值
+{
+    "editor.fontFamily": "Source Code Pro for Powerline",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 18,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.2,
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "eslint.enable": false,
+    "tslint.enable": false
+}

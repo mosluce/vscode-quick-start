@@ -1,0 +1,30 @@
+// 將您的按鍵組合放入此檔案中以覆寫預設值
+[{
+    "key": "ctrl+shift+p",
+    "command": "editor.action.triggerParameterHints",
+    "when": "editorHasSignatureHelpProvider && editorTextFocus"
+}, {
+    "command": "workbench.action.files.newUntitledFile",
+    "key": ""
+}, {
+    "command": "workbench.action.files.newFile",
+    "key": "cmd+n"
+}, {
+    "command": "workbench.action.files.newFolder",
+    "key": "cmd+shift+n"
+}, {
+    "command": "workbench.action.terminal.kill",
+    "key": "cmd+w",
+    "when": "terminalFocus"
+}, {
+    "command": "workbench.action.terminal.new",
+    "key": "cmd+t",
+    "when": "terminalFocus"
+}, {
+    "key": "cmd+r",
+    "command": "workbench.action.tasks.runTask"
+}, {
+    "key": "cmd+t",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "editorTextFocus"
+}]
